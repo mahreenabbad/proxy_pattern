@@ -20,7 +20,7 @@ remappings = [
 sepolia = "https://eth-sepolia.g.alchemy.com/v2/9SQ4az7o0p6zxDpbFuaj2"
 
 [profile.sepolia]
-private_key = "0x86b0273c51033f5aea63b4e11c8b69f260270d729b2d86fe7b79acd07bf17f59"
+private_key = ""
 
 
 
