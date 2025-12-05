@@ -24,7 +24,7 @@ private_key = ""
 
 
 
-etherscan_api_key ="TCJ3I9YEYK14YJV3TU7GECGIN7F1M9XS3F"
+etherscan_api_key =""
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
 
 ignored_error_codes = [5740]
