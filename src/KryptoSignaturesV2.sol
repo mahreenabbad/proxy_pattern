@@ -4,7 +4,6 @@ pragma solidity ^0.8.28;
 import "./Krypto.sol";
 
 
-
 /**
  * @title KryptoSignaturesV2
  * @dev Simple V2 upgrade - just adds a version function for testing
